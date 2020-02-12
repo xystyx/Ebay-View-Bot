@@ -6,7 +6,7 @@ Contact Xystyx#5575 on discord for any help.
 Installation
 
 
-Click download then file
+Click download then unzip the file
 
 Requirements
 Python 3.7
