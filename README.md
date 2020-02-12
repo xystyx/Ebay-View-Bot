@@ -21,10 +21,10 @@ Termcolor
 install Python: https://www.python.org/
 
 
-install Requests 'pip install requests
+install Requests pip install requests
 
 
-install Termcolor 'pip install termcolor'
+install Termcolor pip install termcolor
 
 
 
